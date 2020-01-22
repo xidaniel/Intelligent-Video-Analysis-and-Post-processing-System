@@ -6,6 +6,17 @@ We will use Mask-RCNN to detect person and screen, then combine them to a new la
 The model was trained on Google Cloud by using coco-pretrained model.
 I wrote a python module named layout to combine person and screen automatically.
 
+# What techniques I used
+- Transfer Learning
+- Train model on cloud
+- Contour detection
+- Find the corner vertices of quadrilateral
+- Perspective transformation
+- Tracker
+- Separate image and audio from video
+- Image fusion
+- Color space select
+- etc.
 
 # Currently result for this project
 Let's see the original video and outputs.
