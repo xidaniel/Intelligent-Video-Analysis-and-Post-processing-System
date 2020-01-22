@@ -1,4 +1,4 @@
-# Video-analysis-and-algorithm-optimization
+# A method without loss of picture quality
 
 # Abstract
 In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video.
