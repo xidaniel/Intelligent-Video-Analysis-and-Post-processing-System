@@ -4,7 +4,7 @@
 In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video.
 We will use Mask-RCNN to detect person and screen, then combine them to a new layout.
 The model was trained on Google Cloud by using coco-pretrained model.
-I wrote a python module named newlayout to combine person and screen automatically.
+I wrote a python module named layout to combine person and screen automatically.
 
 
 # Currently result for this project
