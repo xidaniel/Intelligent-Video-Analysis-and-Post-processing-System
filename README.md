@@ -35,4 +35,4 @@ Let's see the original video and outputs.
 - Contour algorithm optimization
 - Multiple people and screen situation
 - Tracker optimization
-- ......
+- etc.
