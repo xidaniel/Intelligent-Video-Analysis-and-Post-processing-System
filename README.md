@@ -1,4 +1,4 @@
-# A method without loss of picture quality
+# Method for extracting and fusing objects in video without pixel loss
 
 # Abstract
 In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video.
