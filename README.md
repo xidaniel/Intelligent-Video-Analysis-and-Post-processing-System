@@ -1,10 +1,8 @@
 # Method for extracting and fusing objects in video without pixel loss
 
 # Abstract
-In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video.
-We will use Mask-RCNN to detect person and screen, then combine them to a new layout.
-The model was trained on Google Cloud by using coco-pretrained model.
-I wrote a python module named layout to combine person and screen automatically.
+In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video objects.
+We will use Mask-RCNN to detect person and screen, then combine them to a new layout without pixel loss.
 
 # What techniques I used
 - Transfer Learning
