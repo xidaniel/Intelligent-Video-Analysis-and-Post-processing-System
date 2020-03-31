@@ -8,7 +8,7 @@ I wrote a python module named layout to combine person and screen automatically.
 
 # What techniques I used
 - Transfer Learning
-- Train model on cloud
+- Train model on GPU of CGP
 - Contour detection
 - Find the corner vertices of quadrilateral
 - Perspective transformation
