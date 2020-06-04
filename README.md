@@ -1,4 +1,4 @@
-# Method for extracting and restructuring objects in video without pixel loss
+# A Hybrid Method for Extracting and Reorganization Objects in Lecture Video       
 
 # Abstract
 In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video objects.
