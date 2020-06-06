@@ -4,6 +4,9 @@
 In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze lecture video objects.
 We will use Mask-RCNN to detect person and screen, then combine them to a new layout without pixel loss.
 
+# The Architecture of Project
+<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/structure%20of%20project.png" width=800 align=center />
+
 # What techniques I used
 - Transfer Learning
 - Train model on GPU of CGP
