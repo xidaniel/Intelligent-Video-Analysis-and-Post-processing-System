@@ -7,8 +7,13 @@ We will use Mask-RCNN to detect person and screen, then combine them to a new la
 # The Architecture of Project
 <img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/structure%20of%20project.png" width=800 align=center />
 
+# Main Instructor Identification
+<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/main%20speaker.png" width=800 align=center />
+
 # What techniques I used
 - Transfer Learning
+- Object Detection
+- ROI Behavior Analysis
 - Train model on GPU of CGP
 - Contour detection
 - Find the corner vertices of quadrilateral
@@ -20,9 +25,7 @@ We will use Mask-RCNN to detect person and screen, then combine them to a new la
 - etc.
 
 # Currently result for this project
-Let's see the original video and outputs.
-
-<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/example.png" width = "400"  alt="Original" align=center />
+<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/example.png" width = "800"  alt="Original" align=center />
 
 # Future Work
 
