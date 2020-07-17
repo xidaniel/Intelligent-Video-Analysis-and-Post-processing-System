@@ -5,7 +5,7 @@ In this project, We will use Mask-RCNN algorithm and OpenCV framework to analyze
 We will use Mask-RCNN to detect person and screen, then combine them to a new layout without pixel loss.
 
 # The Architecture of Project
-<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/structure%20of%20project.png" width=800 align=center />
+<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/system.png" width=800 align=center />
 
 # Main Instructor Identification
 <img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/main%20speaker.png" width=800 align=center />
