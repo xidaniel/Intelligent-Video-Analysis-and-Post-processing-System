@@ -9,6 +9,9 @@ We investigate the problem of automatically extracting key information from a le
 # Main Instructor Identification
 <img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/main%20speaker.png" width=800 align=center />
 
+# Output Example
+<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/example.png" width = "800"  alt="Original" align=center />
+
 # Techniques In Project
 - Deep Learning (Computer Vision)
     - Transfer Learning
@@ -26,9 +29,6 @@ We investigate the problem of automatically extracting key information from a le
     - Color space select
 - Video Utils
     - Split and combine frame and audio from video
-
-# Output
-<img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/example.png" width = "800"  alt="Original" align=center />
 
 # Future Work
 - Inpainting algorithm optimization
