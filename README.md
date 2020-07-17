@@ -9,7 +9,7 @@ We investigate the problem of automatically extracting key information from a le
 # Main Instructor Identification
 <img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/main%20speaker.png" width=800 align=center />
 
-# What techniques I used
+# Techniques In Project
 - Deep Learning (Computer Vision)
     - Transfer Learning
     - Object Detection
@@ -27,7 +27,7 @@ We investigate the problem of automatically extracting key information from a le
 - Video Utils
     - Split and combine frame and audio from video
 
-# Currently result for this project
+# Output
 <img src="https://github.com/xidaniel/Lecture-Video-Objects-Reframing/blob/master/image/example.png" width = "800"  alt="Original" align=center />
 
 # Future Work
@@ -36,3 +36,6 @@ We investigate the problem of automatically extracting key information from a le
 - Mouth motion detection
 - Tracker optimization
 - etc.
+
+
+This project is still on working; Please feel free to reach me (xwang4@umass.edu) if you have any suggestions.
