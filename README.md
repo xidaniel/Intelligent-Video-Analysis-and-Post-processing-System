@@ -12,7 +12,7 @@ Lecture videos are good sources to learn something new and deserve to be treasur
 <img src="image/archi.png" width=800 align=center />
 
 ## Real Time Architecture
-<img src="image/real time.png" width=800 align=center />
+<img src="image/real-time.png" width=800 align=center />
 
 ## Techniques In Project
 - Deep Learning (Computer Vision)
