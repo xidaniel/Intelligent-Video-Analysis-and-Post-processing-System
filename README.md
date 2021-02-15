@@ -11,11 +11,12 @@ Lecture videos are good sources to learn something new and deserve to be treasur
 <img src="image/real-time.png" width=800 align=center />
 
 ## Contributing
-- Built an intelligent system to detect objects, track objects, reorganize objects, and render videos utilizing Python and OpenCV.
-- Trained an objection detection model to local person and screen on a Mask R-CNN framework implemented on GPU.
-- Developed a novel method to find the main speaker in multi-people scenarios from various video streams.
-- Accelerated the video rendering speed by 35x via integrating the object detection model and a tracking algorithm.
-- Investigated an algorithm to get screen contour to correct screen viewpoint and refine screen region quality.
+- Built an intelligent system to detect objects, filter objects, track objects, render new video, etc., utilizing Python, OpenCV.
+- Collected 8,100+ images and Trained an object detection model to localize person, face, and screen on a Mask R-CNN framework.  
+- Proposed an algorithm to identify the main speaker in a multi-people scenario based on face, body detection, and video sequence.
+- Investigated an algorithm to get screen contour in pixel level, correct screen viewpoint, and enhance screen visual quality.
+- Accelerated the video analysis and rendering speed by 35x via integrating the object detection model and a tracking algorithm.
+
 
 ## Techniques In Project
 - Deep Learning (Computer Vision)
