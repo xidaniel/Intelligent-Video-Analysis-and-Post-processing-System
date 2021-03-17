@@ -44,4 +44,4 @@ Lecture videos are good sources to learn something new and deserve to be treasur
 - etc.
 
 ## Contact
-Xi Wang xiwang3317@gmail.com
+Email: xiwang3317@gmail.com
