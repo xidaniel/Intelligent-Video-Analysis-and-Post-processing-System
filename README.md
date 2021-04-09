@@ -1,4 +1,4 @@
-# AI-Based Efficient Automatic Post-Processing Intelligence System for Live Lecture Video    
+# Lecture Video Transformation Through an Intellgent Video Analysis and Post-Processing System    
 ## About This Project
 Lecture videos are good sources to learn something new. However, the videos without post-processing are usually posted on the internet directly due to the technology and resources limitations. We usually get highly-quality by consuming more time and resources. We investigate the problem of automatically extracting key information from a lecture video in different scenarios. The goal of this thesis is to extract main instructor and screen from a original live lecture video and then to combine them to generate a new layout-video with less file size than original.
 ## Demo
